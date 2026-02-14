@@ -13,26 +13,23 @@ Objective
 Design a responsive, high-conversion website UI that clearly communicates the offering, builds trust with first-time visitors, and drives users toward a clear action such as a call, form submission, or booking—seamlessly across desktop and mobile.
 
 Design Approach
-- User research / assumptions
+- User research/assumptions
 - Key design decisions
 - UX principles followed (usability, accessibility, etc.)
 
 Tools Used
 - Figma
-- Adobe XD / Canva / Pen & Paper (if any)
+- Canva, Pen & Paper
 
 Deliverables
 - Wireframes
 - User flow
 - UI screens
-- Prototype link (if available)
-
+- Prototype link: https://www.figma.com/proto/GSKZx8xOqArubbPPkk06Gq/SmileCare-Dental-Clinic-%E2%80%93-Website-UI?node-id=0-1&t=xeaB7uDIMshm47me-1
+  
 Design Links
-- Figma File: (paste link here)
-- Prototype: (paste link here)
-
-Screenshots
-(Add screenshots of your designs here)
+- Figma File: (https://www.figma.com/design/GSKZx8xOqArubbPPkk06Gq/SmileCare-Dental-Clinic-%E2%80%93-Website-UI?node-id=0-1&t=xeaB7uDIMshm47me-1)
+- Prototype: https://www.figma.com/proto/GSKZx8xOqArubbPPkk06Gq/SmileCare-Dental-Clinic-%E2%80%93-Website-UI?node-id=0-1&t=xeaB7uDIMshm47me-1
 
 Author
 - Name: Sakshi Yadav  
